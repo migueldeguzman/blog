@@ -1,0 +1,24 @@
+---
+title: I'm investing 
+
+tags:
+    - personal
+    - blog
+date: "2018-12-13"
+---
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk66Wxp677uFjVh0otlJYIWFcTdVH47hHK6PhIV_kH221ZbZrqWQ" alt="studying" style="width: 700px">
+
+I did not write anything in the past 10 days, due to craving knowledge in a number of different disciplines.
+
+I used to think that I know everything but it just dawned to me that I haven't scratched an inch of the universe's potential.
+
+I'm deep diving on everything about the environment. I'm studying Global Sustainability Management at the Technical University of Denmark.  I'm 40% done already and hopefully finish it before I get a job overseas.  
+
+I also realized how hard it is to write stuff that matters. That forced me to do a course on writing. 
+
+Focusing on strengths was the theme of my professional career as an accountant. I am philosophical, tech savy and hyper productive. But these are my strengths, being good at these areas maintain my edge but does not elevate it. This is why I am exploring my weaknesses for the past six months. After learning how to code, I just proved to myself that I can learn and do anything given enough focus and time. 
+
+The future is not guaranteed and the most effective thing to do is build a lot of powerful skills and adapt better moving forward.
+
+
