@@ -1,0 +1,482 @@
+[
+    {
+        "componentChunkName": "component---src-pages-index-js",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-html-516",
+        "path": "/404.html"
+    },
+    {
+        "componentChunkName": "component---src-pages-404-js",
+        "jsonName": "404-22d",
+        "path": "/404/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "7-7-billion-gods-78f",
+        "path": "/7.7-billion-gods/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "ai-danger-cde",
+        "path": "/AI-danger/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "captain-marvel-e28",
+        "path": "/Captain-Marvel/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "china-and-philippines-joint-oil-exploration-59c",
+        "path": "/China-and-Philippines-joint-oil-exploration/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "im-investing-545",
+        "path": "/I'm-investing/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "i-found-a-job-in-cayman-islands-831",
+        "path": "/I-found-a-job-in-cayman-islands/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "philippines-and-tech-ca6",
+        "path": "/Philippines-and-Tech/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "a-deep-dive-to-history-0b8",
+        "path": "/a-deep-dive-to-history/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "a-few-lessons-from-wars-c67",
+        "path": "/a-few-lessons-from-wars/"
+    },
+    {
+        "componentChunkName": "component---src-pages-about-js",
+        "jsonName": "about-f34",
+        "path": "/about/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "adapting-to-climate-change-303",
+        "path": "/adapting-to-climate-change/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "am-i-solving-the-right-problem-551",
+        "path": "/am-i-solving-the-right-problem/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "becoming-agnostic-544",
+        "path": "/becoming-agnostic/"
+    },
+    {
+        "componentChunkName": "component---src-pages-blog-js",
+        "jsonName": "blog-f7a",
+        "path": "/blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "born-good-and-evil-e33",
+        "path": "/born-good-and-evil/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "california-wildfires-d17",
+        "path": "/california-wildfires/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "capitalism-has-its-flaws-7f8",
+        "path": "/capitalism-has-its-flaws/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "cats-110",
+        "path": "/cats/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "climate-change-f20",
+        "path": "/climate-change/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "coming-out-of-retirement-848",
+        "path": "/coming-out-of-retirement/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "consumption-overdrive-a8f",
+        "path": "/consumption-overdrive/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "cortisol-33b",
+        "path": "/cortisol/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "discern-ng-the-truth-39f",
+        "path": "/discern-ng-the-truth/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "dopamine-066",
+        "path": "/dopamine/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "dr-jordan-b-peterson-part-1-52a",
+        "path": "/dr-jordan-b-peterson-part-1/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "dr-jordan-b-peterson-part-2-fb9",
+        "path": "/dr-jordan-b-peterson-part-2/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "gratitude-642",
+        "path": "/gratitude/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "habits-shape-our-social-interactions-8db",
+        "path": "/habits-shape-our-social-interactions/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "hello-world-8bc",
+        "path": "/hello-world/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "hiding-the-genius-of-the-moment-803",
+        "path": "/hiding-the-genius-of-the-moment/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "improve-what-strength-weaknesses-8a0",
+        "path": "/improve-what-strength-weaknesses/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "integral-thinking-c27",
+        "path": "/integral-thinking/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "jack-of-all-trades-706",
+        "path": "/jack-of-all-trades/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "joe-rogan-podcast-e76",
+        "path": "/joe-rogan-podcast/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "john-wick-ad2",
+        "path": "/john-wick/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "ketogenic-diet-bbe",
+        "path": "/ketogenic-diet/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "learning-faster-2e5",
+        "path": "/learning-faster/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "longterm-packing-concepts-f7d",
+        "path": "/longterm-packing-concepts/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "mariahelena-4d3",
+        "path": "/mariahelena/"
+    },
+    {
+        "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
+        "jsonName": "offline-plugin-app-shell-fallback-a30",
+        "path": "/offline-plugin-app-shell-fallback/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "pancit-keto-f74",
+        "path": "/pancit-&-keto/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "plans-sort-of-62a",
+        "path": "/plans-sort-of/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "primal-e7c",
+        "path": "/primal/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "ramping-up-blogging-again-56a",
+        "path": "/ramping-up-blogging-again/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "react-native-and-a-cool-project-3f6",
+        "path": "/react-native-and-a-cool-project/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "responsibility-61d",
+        "path": "/responsibility/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "scoliosis-399",
+        "path": "/scoliosis/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "serotonin-3fb",
+        "path": "/serotonin/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "short-update-blog-3fc",
+        "path": "/short-update-blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "small-stuff-matters-d91",
+        "path": "/small-stuff-matters/"
+    },
+    {
+        "componentChunkName": "component---src-pages-tags-js",
+        "jsonName": "tags-275",
+        "path": "/tags/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-226",
+        "path": "/tags//"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-5-years-of-travel-083",
+        "path": "/tags/5-years-of-travel/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-ai-612",
+        "path": "/tags/ai/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-alex-honnold-ce7",
+        "path": "/tags/alex-honnold/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-blog-b62",
+        "path": "/tags/blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-capitalism-28e",
+        "path": "/tags/capitalism/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-cayman-dc9",
+        "path": "/tags/cayman/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-charles-darwin-0cf",
+        "path": "/tags/charles-darwin/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-climate-change-818",
+        "path": "/tags/climate-change/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-climate-f64",
+        "path": "/tags/climate/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-creating-art-2ad",
+        "path": "/tags/creating-art/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-death-cd1",
+        "path": "/tags/death/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-elon-musk-663",
+        "path": "/tags/elon-musk/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-evolution-af1",
+        "path": "/tags/evolution/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-extinction-notes-c5b",
+        "path": "/tags/extinction-notes/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-health-fitness-0b3",
+        "path": "/tags/health-fitness/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-history-c4d",
+        "path": "/tags/history/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-homosapiens-09d",
+        "path": "/tags/homosapiens/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-jordan-b-peterson-f7b",
+        "path": "/tags/jordan-b-peterson/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-jre-cdd",
+        "path": "/tags/jre/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-keto-b60",
+        "path": "/tags/keto/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-kevin-richardson-5aa",
+        "path": "/tags/kevin-richardson/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-personal-projects-1b8",
+        "path": "/tags/personal-projects/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-personal-15f",
+        "path": "/tags/personal/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-physics-0ad",
+        "path": "/tags/physics/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-psychology-dc6",
+        "path": "/tags/psychology/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-react-native-88d",
+        "path": "/tags/react-native/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-resourcefulness-38b",
+        "path": "/tags/resourcefulness/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-robert-sapolsky-ff2",
+        "path": "/tags/robert-sapolsky/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-self-help-e89",
+        "path": "/tags/self-help/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-super-intelligence-a60",
+        "path": "/tags/super-intelligence/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-technology-7a1",
+        "path": "/tags/technology/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-yuval-noah-harrari-0f9",
+        "path": "/tags/yuval-noah-harrari/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "the-best-smartphone-in-my-opinion-296",
+        "path": "/the-best-smartphone-in-my-opinion/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "the-code-of-this-blog-720",
+        "path": "/the-code-of-this-blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "the-curse-of-creativity-8c9",
+        "path": "/the-curse-of-creativity/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "the-donald-trump-effect-ba7",
+        "path": "/the-donald-trump-effect/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "tools-culuture-biology-f44",
+        "path": "/tools-culuture-biology/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "uninhabitable-earth-david-wallace-wells-1aa",
+        "path": "/uninhabitable-earth-david-wallace-wells/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "why-i-try-to-make-the-world-better-a41",
+        "path": "/why-i-try-to-make-the-world-better/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "why-so-serious-ff9",
+        "path": "/why-so-serious/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "zero-social-media-5fa",
+        "path": "/zero-social-media/"
+    }
+]
