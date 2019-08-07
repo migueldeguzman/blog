@@ -13,7 +13,7 @@ date: "2019-08-06"
 
 The world needs more truthful sources. Stories from people who have dealt with crap and tell the details of it - no matter what.
 
-Like John Wick, no one should'nt be afraid of speaking the truth...or rather his truth. Why is that so, it is the way to know one's self... and is part of a better process of determining if your ideas are strong enough to hold structure in real world scenarios. 
+Like John Wick, no one should be afraid of telling the truth...or rather his truth. Why is that so, it is the way to know one's self... and is part of a better process of determining if your ideas are strong enough to hold structure in real world scenarios. 
 
 The reality of it is based on my readings and personal experiences - the courage to speak the truth is a rare trait. So most of our society is rather choosing a safer, a counter-productive or a pathological way of navigating very complex problems. I see it a lot more especially in tight situations - choosing themselves instead of implementing what is better collectively. 
 
