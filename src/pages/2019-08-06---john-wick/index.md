@@ -25,7 +25,7 @@ I'm also thinking of writing a book the past month but after being offered to co
 
 Knowing a truthful assessment of myself at the moment critically gives me the right options or arguments. It will really be a battle of arguments inside of me in the next coming weeks or so, hoping to extract the proper route.... I'm really grateful of the opportunities crashing into me lately; strong cognitive thinking, unlimited energy through keto and cycling -thus allowing me to better tackle bigger, more ambitious sets of problems.
 
-Lastly, like John Wick... given the opportunity to do what compels me, I will do it...no matter the cost or walls needed to be smashed....Coming out of retirement to be a force of good.
+Lastly, given the opportunity, health and clarity to do what compels me, I will do it...no matter the cost or walls needed to be smashed....Coming out of retirement to be a force of good.
 
 
 
