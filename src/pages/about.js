@@ -22,8 +22,9 @@ export default ({ location }) => {
         Originally from the province of Bulacan, Philippines.
       </p>
 
-      <p>
-        I should write more stuff in this page. My other website is <a href="https://migueldeguzman.github.io">migueldeguzman.github.io</a>.
+      <p> 
+        My other website: <a href="https://migueldeguzman.github.io">migueldeguzman.github.io</a>.<br/>
+        My github account: <a href="https://github.com/migueldeguzman">migueldeguzman</a>
       </p>
     </Layout>
   )
