@@ -206,6 +206,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "letter-to-my-future-wife-26a",
+        "path": "/letter-to-my-future-wife/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "longterm-packing-concepts-f7d",
         "path": "/longterm-packing-concepts/"
     },
