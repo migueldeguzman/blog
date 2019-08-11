@@ -146,6 +146,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "embodiement-of-the-shadow-585",
+        "path": "/embodiement-of-the-shadow/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "gratitude-642",
         "path": "/gratitude/"
     },
@@ -401,6 +406,11 @@
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-neuroscience-563",
+        "path": "/tags/neuroscience/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-personal-projects-1b8",
         "path": "/tags/personal-projects/"
     },
@@ -408,6 +418,11 @@
         "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-personal-15f",
         "path": "/tags/personal/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-philosophy-7b8",
+        "path": "/tags/philosophy/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
