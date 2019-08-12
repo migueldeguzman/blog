@@ -280,6 +280,11 @@
         "path": "/small-stuff-matters/"
     },
     {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "stoic-paradigm-937",
+        "path": "/stoic-paradigm/"
+    },
+    {
         "componentChunkName": "component---src-pages-tags-js",
         "jsonName": "tags-275",
         "path": "/tags/"
