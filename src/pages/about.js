@@ -11,7 +11,10 @@ export default ({ location }) => {
       
       <h1>Hi there!</h1>
       <p>
-        My blog for trying to share the world a transcendent lifestlye through stoic philosophy. I work as an accountant but thinks <a href="https://tech-stoic.github.io/integral-thinking/">integrally</a> about how the world works. I create art for this blog, tinker with open source code, 
+        A blog for trying to share the world a transcendent lifestlye through stoic philosophy. 
+        <br/>
+        <br/>
+        I work as an accountant but thinks <a href="https://tech-stoic.github.io/integral-thinking/">integrally</a> about how the world works. I create art for this blog, tinker with open source code, 
         learn french and science while doing a <a href="https://tech-stoic.github.io/keto">ketogenic lifestlye</a>.
       </p>
       <p>
@@ -23,8 +26,8 @@ export default ({ location }) => {
       </p>
 
       <p> 
-        My other website: <a href="https://migueldeguzman.github.io">migueldeguzman.github.io</a>.<br/>
-        My github account: <a href="https://github.com/migueldeguzman">migueldeguzman</a>
+        Some cool animation: <a href="https://migueldeguzman.github.io">migueldeguzman.github.io</a>.<br/>
+        Github: <a href="https://github.com/migueldeguzman">migueldeguzman</a> <br/>
         Instagram: <a href="">tech-stoic</a>
       </p>
     </Layout>

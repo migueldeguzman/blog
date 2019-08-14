@@ -151,6 +151,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "garbage-8a5",
+        "path": "/garbage/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "gratitude-642",
         "path": "/gratitude/"
     },
