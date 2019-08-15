@@ -91,6 +91,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "bots-ada",
+        "path": "/bots/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "california-wildfires-d17",
         "path": "/california-wildfires/"
     },
@@ -438,6 +443,11 @@
         "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-physics-0ad",
         "path": "/tags/physics/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-projects-a29",
+        "path": "/tags/projects/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
