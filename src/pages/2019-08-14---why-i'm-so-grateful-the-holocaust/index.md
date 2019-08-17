@@ -10,7 +10,7 @@ tags:
 date: "2019-08-16"
 ---
 
-There were a lot of bad events that have happened in our human history, but one of the most devilish period of our existence was the regime of the Nazis and Hitler - coined as the "holocaust". 
+There were a lot of bad events that have happened in our human history, but one of the most devilish period of our human existence was the regime of the Nazis and Adolf Hitler also known as the "holocaust". 
 
 ![holocaust](survivors.jpg)
 
@@ -18,7 +18,7 @@ Imagine you're one of these people - being alive and dead at the same time, not 
 
 ![hitler](hitler.jpg)
 
-Hitler has a very compelling argument - make our species better by eliminating the weak. This argument has the case for prospering the power of natural selection and propel any animal species to supreme power over most. He treated the weak as pests, using chemical Zyklon B to erradicate the old and powerless.... imagine you are an old man in one of the gas chambers, sensing the end and with others who either have accepted their fate or gone insane as the gas engulfs the room. As the gas comes in contact with your nose - into the lungs go cyanide laden molecules that stops the processes where our body can utilize any form of cellular energy. Imagine dying like a rat or mosquito with other humans that turned into rats and mosquitos in the eyes of Hitler.
+Hitler has a very compelling argument - make our species better by eliminating the weak. This argument has the case for prospering natural selection and propel any animal species to supreme power over most. He treated the weak as pests, using chemical Zyklon B to erradicate the old and powerless.... imagine you have fever and was categorized as a weak man and got sent to one of the gas chambers, sensing the end and with others who either have accepted their fate or gone insane as the gas engulfs the room. As the gas comes in contact with your nose... to the throat and into the lungs go cyanide laden molecules that stops the processes where our body can utilize any form of cellular energy. Imagine dying like a rat or cockroach with other humans that turned into nuisance in the eyes of Hitler - you are to be erradicated from the face of this planet through his totalitarian structure of the world.
 
 Now why I'm so grateful of life? I'm so happy that I am not born in this period where humans can treated as animals worth eliminating. Totalitarian actions of the few causing so much deaths and pain in history that is chilling and appalling. I'm so happy to just be able to write and make digital art about the dark chapters of our history, especially this one.
 
