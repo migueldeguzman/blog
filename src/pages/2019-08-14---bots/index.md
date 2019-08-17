@@ -21,7 +21,6 @@ I want to emphasize in this post that this project is rather composed of less th
 
 What I'm contemplating always about bots is it's asynchronous capabilities - codes that run in the background that no one ever sees, hiding from the GUI (graphical user interface) of any device or platform you are using. This type of codes are doing stuff that do not reveal themselves to ordinary users. A good example for this is what have happened to last US elections where Russia paid alot of ads through facebook just to push Trump's campaign. How futile that another nation can invest in chaos codes that push wrongful information to affect the minds of hundreds of millions. Insidous at it may sound, bots are worth contemplating about but it's just so hard to defend ourselves from it. I did shutdown my social media platforms but still use amazon to buy stuff -consequently lending some of my vital information. Google is feeding itself all of our searches - it knows what we seek, love or hate... we are powering it to access to all our data. It gets creepy as to how these tech giants have power over all of our information - literally.
 
-This is just the reality of this mega experiment that is folding our minds to places we have not yet tackled as a species, still flipping its pages at a very rapid phase - probably at lightspeed so our brains even 7.7 billion combined won't be able to comprehend what all of these codes are doing.. 
 
 
 

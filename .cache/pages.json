@@ -526,6 +526,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "why-im-so-grateful-the-holocaust-8ec",
+        "path": "/why-i'm-so-grateful-the-holocaust/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "why-i-try-to-make-the-world-better-a41",
         "path": "/why-i-try-to-make-the-world-better/"
     },
