@@ -3,7 +3,8 @@ title: Pillars of Knowledge
 
 tags:
     - creating-art 
-    - psychology
+    - science
+    - history
     - blog
     - projects
 

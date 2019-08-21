@@ -471,6 +471,11 @@
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-science-38f",
+        "path": "/tags/science/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-self-help-e89",
         "path": "/tags/self-help/"
     },
@@ -513,6 +518,11 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "tools-culuture-biology-f44",
         "path": "/tools-culuture-biology/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "unavoidable-circumstances-728",
+        "path": "/unavoidable-circumstances/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
