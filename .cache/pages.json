@@ -266,6 +266,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "resources-fb7",
+        "path": "/resources/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "responsibility-61d",
         "path": "/responsibility/"
     },
