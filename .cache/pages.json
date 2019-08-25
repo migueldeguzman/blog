@@ -76,6 +76,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "athlete-heart-9d4",
+        "path": "/athlete-heart/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "becoming-agnostic-544",
         "path": "/becoming-agnostic/"
     },
@@ -246,6 +251,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "pillars-of-knowledge-deb",
+        "path": "/pillars-of-knowledge/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "plans-sort-of-62a",
         "path": "/plans-sort-of/"
     },
@@ -326,8 +336,23 @@
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-audio-26d",
+        "path": "/tags/audio/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-biology-c70",
+        "path": "/tags/biology/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-blog-b62",
         "path": "/tags/blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-books-936",
+        "path": "/tags/books/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
@@ -383,6 +408,11 @@
         "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-extinction-notes-c5b",
         "path": "/tags/extinction-notes/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-health-and-wellness-cf4",
+        "path": "/tags/health-and-wellness/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
@@ -528,11 +558,6 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "unavoidable-circumstances-728",
         "path": "/unavoidable-circumstances/"
-    },
-    {
-        "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "undefined-195",
-        "path": "/undefined/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",

@@ -69,10 +69,8 @@ export default () => {
             },
           }}
         >
-          <span css={{ fontWeight: 400 }}></span> Brain-capture 
-          method 
-          for all things philosopical and tech{` `}
-          <span css={{ fontWeight: 400 }}></span>
+          <span css={{ fontWeight: 300 }}></span> tryingToWrapMyBrainWithPhilosophyBiologyPhysicsAndComputerScienceWhileCyclingALotInCaymanIslands {` `}
+          <span css={{ fontWeight: 300 }}></span>
         </h1>
       </div>
       <div
