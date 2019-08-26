@@ -15,6 +15,8 @@ date: "2019-08-23"
 
 <br/>
 
+*But I did measured it a lot the past few days!!*
+
 *My decision to cycle arround Cayman Islands, fourteen kilometers everyday non-stop fascinates me to the core. I recently checked my resting heartbeat per minute (RBPM) through Samsung Health app and my Smartphone and have found that it is flirting at 58 to 64 heartbeats per minute. An athlete's heartbeat is at 40 to 60. Mine is so close to an active person in sports! Bloody briliant!!!!*
 
 ![red](red.jpg)
@@ -32,7 +34,7 @@ This is Red. A bicycle that I bought from Ms. Lois for CI$ 75 last April. Costs 
 
 <br/>
 
-How I achieved a great milestone for just merely spending so little? the discipline should be emphatic - definitive and insane levels. The daily routine goes like this:
+How I achieved a great milestone for just merely spending so little? the discipline should be definitive and always at insane levels. The daily routine goes like this:
 * Try to wake up 4AM to 4:30AM
 * Meditate 15 mins to 1 hr; Try to do calisthenics after recovery / rest..
 * Prep for 30 mins to work - the usual stuff
@@ -43,7 +45,7 @@ How I achieved a great milestone for just merely spending so little? the discipl
 * Complete partial blog / art, code / study JavaScript and other topics of interest -normally through youtube and podcasts after dinner. Occasional Mobile Gaming..
 * 8PM to 9PM sleeptime
 
-As you can see from my abbreviated list of things that I do everyday - there is no downtime except for sleep. This schedule will drive an average person mad. Well it worked out for me that is why I would recommend this routine to everybody who's wanting to create a healthy lifestyle. 
+As you can see from my abbreviated list of things that I do everyday - there is no downtime except for sleep. This schedule will drive an average person mad. Well it worked out for me that is why I would recommend this routine to everybody who's wanting to create a healthy lifestyle. The downside I guess that the courage to do hard physical activity was not distributed evenly in our species and as obesity is so common now.
 
 Integrating a life long passion for at the very least an aerobic exercise will greatly enhance your life, relationships (sex life, transferring healthy genes) and career (better cognitive abilities). I hope anyone who gets to read this post should study what I have written here very carefully, as I would argue that this is one of my best articles ever written.  
 
