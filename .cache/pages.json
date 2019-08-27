@@ -391,6 +391,11 @@
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-coding-e5c",
+        "path": "/tags/coding/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-creating-art-2ad",
         "path": "/tags/creating-art/"
     },
@@ -486,6 +491,11 @@
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-primatology-171",
+        "path": "/tags/primatology/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-projects-a29",
         "path": "/tags/projects/"
     },
@@ -568,6 +578,11 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "uninhabitable-earth-david-wallace-wells-1aa",
         "path": "/uninhabitable-earth-david-wallace-wells/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "when-everything-fits-003",
+        "path": "/when-everything-fits/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
