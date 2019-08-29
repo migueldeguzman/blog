@@ -291,6 +291,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "rocketman-a6b",
+        "path": "/rocketman/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "scoliosis-399",
         "path": "/scoliosis/"
     },
@@ -468,6 +473,11 @@
         "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-neuroscience-563",
         "path": "/tags/neuroscience/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-people-4ed",
+        "path": "/tags/people/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
