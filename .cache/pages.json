@@ -186,6 +186,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "if-i-had-more-time-d0d",
+        "path": "/if-i-had-more-time/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "improve-what-strength-weaknesses-8a0",
         "path": "/improve-what-strength-weaknesses/"
     },
@@ -423,6 +428,11 @@
         "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-extinction-notes-c5b",
         "path": "/tags/extinction-notes/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-health-abd-wellness-28f",
+        "path": "/tags/health-abd-wellness/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",

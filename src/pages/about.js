@@ -9,7 +9,7 @@ export default ({ location }) => {
   return (
     <Layout location={location}>
       
-      <h1>Hi there!</h1>
+      <h1>Hola!</h1>
       <p>
         A blog for trying to share the world a transcendent lifestlye through stoic philosophy. 
         <br/>
@@ -19,6 +19,9 @@ export default ({ location }) => {
       </p>
       <p>
         I love cycling too.
+        <br/><br/>
+        <img alt="pic"></img>
+
       </p>
 
       <p>

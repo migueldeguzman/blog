@@ -10,7 +10,7 @@ date: "2019-08-28"
 ---
 <br/>
 
-###<b>*TStarhopper successfully did 150 meters flight vertically and returned to the ground in 57 seconds today!*</b>###
+###<b>*Starhopper successfully did 150 meters flight vertically and returned to the ground in 57 seconds today!*</b>###
 
 ![rocketman](rocketman.jpg)
 <br/>
