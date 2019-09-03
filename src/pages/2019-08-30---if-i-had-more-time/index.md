@@ -3,7 +3,7 @@ title: If I had more time?
 
 tags:
     - creating-art
-    - health abd wellness
+    - health and wellness
     - blog
 
 date: "2019-08-30"

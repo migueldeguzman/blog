@@ -36,6 +36,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "disembodied-ce6",
+        "path": "/Disembodied/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "im-investing-545",
         "path": "/I'm-investing/"
     },
@@ -428,11 +433,6 @@
         "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-extinction-notes-c5b",
         "path": "/tags/extinction-notes/"
-    },
-    {
-        "componentChunkName": "component---src-templates-tag-page-js",
-        "jsonName": "tags-health-abd-wellness-28f",
-        "path": "/tags/health-abd-wellness/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
