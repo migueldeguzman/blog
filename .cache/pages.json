@@ -56,6 +56,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "serpents-d98",
+        "path": "/Serpents/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "a-deep-dive-to-history-0b8",
         "path": "/a-deep-dive-to-history/"
     },
