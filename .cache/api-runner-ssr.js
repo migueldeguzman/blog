@@ -3,7 +3,7 @@ var plugins = [{
       options: {"plugins":[],"pathToConfigModule":"src/utils/typography"},
     },{
       plugin: require('/Users/migueldeguzmandev/Desktop/projects/blog/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
-      options: {"plugins":[],"name":"tech-stoic","short_name":"tech-stoic","icon":"static/logo.png","start_url":"/","background_color":"#deeaf3","theme_color":"#deeaf3","display":"minimal-ui"},
+      options: {"plugins":[],"name":"tech-stoic","short_name":"tech-stoic","icon":"static/logo.png","start_url":"/","background_color":"#ffffff","theme_color":"#ffffff","display":"minimal-ui"},
     },{
       plugin: require('/Users/migueldeguzmandev/Desktop/projects/blog/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},

@@ -1,4 +1,4 @@
-const whitish = `#deeaf3`
+const whitish = `#ffffff`
 
 module.exports = {
   siteMetadata: {

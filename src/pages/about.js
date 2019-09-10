@@ -20,18 +20,17 @@ export default ({ location }) => {
       <p>
         I love cycling too.
         <br/><br/>
-        <img alt="pic"></img>
-
       </p>
+        <img alt="biker" src="../images/biker.jpg" />
 
       <p>
         Originally from the province of Bulacan, Philippines.
       </p>
 
       <p> 
-        Some cool animation: <a href="https://migueldeguzman.github.io">migueldeguzman.github.io</a>.<br/>
-        Github: <a href="https://github.com/migueldeguzman">migueldeguzman</a> <br/>
-        Instagram: <a href="">tech-stoic</a>
+        my other website: <a href="https://migueldeguzman.github.io">migueldeguzman.github.io</a>.<br/>
+        github: <a href="https://github.com/migueldeguzman">migueldeguzman</a> <br/>
+        instagram: <a href="https://instagram.com/tech.stoic">tech-stoic</a>
       </p>
     </Layout>
   )

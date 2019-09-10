@@ -260,6 +260,11 @@
         "path": "/mariahelena/"
     },
     {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "minimalism-585",
+        "path": "/minimalism/"
+    },
+    {
         "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
         "jsonName": "offline-plugin-app-shell-fallback-a30",
         "path": "/offline-plugin-app-shell-fallback/"
@@ -336,8 +341,8 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
-        "jsonName": "stoic-paradigm-937",
-        "path": "/stoic-paradigm/"
+        "jsonName": "stoic-philosophy-68d",
+        "path": "/stoic-philosophy/"
     },
     {
         "componentChunkName": "component---src-pages-tags-js",
