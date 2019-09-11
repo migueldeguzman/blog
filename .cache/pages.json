@@ -216,6 +216,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "intermittent-fasting-ccc",
+        "path": "/intermittent-fasting/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "jack-of-all-trades-706",
         "path": "/jack-of-all-trades/"
     },
