@@ -186,6 +186,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "guitar-ep-1-df2",
+        "path": "/guitar-ep1/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "habits-shape-our-social-interactions-8db",
         "path": "/habits-shape-our-social-interactions/"
     },
@@ -498,6 +503,11 @@
         "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-kevin-richardson-5aa",
         "path": "/tags/kevin-richardson/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-music-580",
+        "path": "/tags/music/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
