@@ -126,6 +126,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "casey-neistat-51c",
+        "path": "/casey-neistat/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "cats-110",
         "path": "/cats/"
     },
