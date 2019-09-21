@@ -316,6 +316,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "random-blog-c00",
+        "path": "/random-blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "react-native-and-a-cool-project-3f6",
         "path": "/react-native-and-a-cool-project/"
     },
