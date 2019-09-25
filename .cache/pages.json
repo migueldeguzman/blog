@@ -86,6 +86,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "art-470",
+        "path": "/art/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "athlete-heart-9d4",
         "path": "/athlete-heart/"
     },
