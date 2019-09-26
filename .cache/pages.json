@@ -296,6 +296,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "personality-test-1ab",
+        "path": "/personality-test/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "pillars-of-knowledge-deb",
         "path": "/pillars-of-knowledge/"
     },

@@ -20,10 +20,7 @@ export default ({ location }) => {
       <p>
         I love cycling too.
         <br/><br/>
-      </p>
-        <img alt="biker" src="../images/biker.jpg" />
-
-      <p>
+        
         Originally from the province of Bulacan, Philippines.
       </p>
 
