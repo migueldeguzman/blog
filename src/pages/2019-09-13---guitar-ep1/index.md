@@ -1,5 +1,5 @@
 ---
-title: Guitar Lessons No. 1
+title: GL-EP#1 - Blogging my way to learn music
 
 tags:
     - creating-art

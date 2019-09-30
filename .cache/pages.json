@@ -316,6 +316,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "podcasting-4bd",
+        "path": "/podcasting/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "primal-e7c",
         "path": "/primal/"
     },
@@ -608,6 +613,11 @@
         "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-super-intelligence-a60",
         "path": "/tags/super-intelligence/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-tech-355",
+        "path": "/tags/tech/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
