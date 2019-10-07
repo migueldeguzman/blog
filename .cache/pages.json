@@ -346,6 +346,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "redundancy-fd0",
+        "path": "/redundancy/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "resources-fb7",
         "path": "/resources/"
     },

@@ -36,7 +36,7 @@ class BlogIndexRoute extends React.Component {
           />
           Art & Blog created by{" "}
           <strong>{this.props.data.site.siteMetadata.author}</strong> who lives
-          and works in Cayman Islands while experimenting on a bunch of crazy things.
+          and works in Cayman Islands while trying to create a positive impact for the future and beyond..
         </p>
         <ul
           css={{

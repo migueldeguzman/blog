@@ -9,16 +9,16 @@ export default ({ location }) => {
   return (
     <Layout location={location}>
       
-      <h1>Hola!</h1>
+      <h1>Hello there!</h1>
       <p>
-        A blog for trying to share the world a transcendent lifestlye through stoic philosophy. 
+        This blogs are small chapters, memories on how I am trying to live a meaningful life through stoic philosophy and help create a better future for generations to come. 
         <br/>
         <br/>
-        I work as an accountant but thinks <a href="https://tech-stoic.github.io/integral-thinking/">integrally</a> about how the world works. I create art for this blog, tinker with open source code, 
-        learn french and science while doing a <a href="https://tech-stoic.github.io/keto">ketogenic lifestlye</a>.
+        I work as an accountant but thinks <a href="https://tech-stoic.github.io/integral-thinking/">integrally</a> about how the world works. 
+        I create art for this blog, tinker with open source code, learn french and science while doing a <a href="https://tech-stoic.github.io/keto">ketogenic lifestlye</a>.
       </p>
       <p>
-        I love cycling too.
+        I love cycling for the environment too.
         <br/><br/>
         
         Originally from the province of Bulacan, Philippines.
