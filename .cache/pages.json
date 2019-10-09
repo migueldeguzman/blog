@@ -51,6 +51,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "mct-b35",
+        "path": "/MCT/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "philippines-and-tech-ca6",
         "path": "/Philippines-and-Tech/"
     },
