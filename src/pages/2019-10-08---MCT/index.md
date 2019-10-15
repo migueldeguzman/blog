@@ -9,7 +9,7 @@ tags:
 date: "2019-10-08"
 ---
 
-***I'm trying MCT supplements..haven't seen the effects yet..*** 
+***I'm trying supplements..haven't seen the effects yet..*** 
 
 Six months into my ketogenic diet, I'm trying out a little bit of variation on how I adapt myself moving forward... One of them  is taking MCTs or medium chain triglicerides where I believe are unique combination of nutrients that are well absorbed by the body. Rare nutrients are essential to my ketogenic journey as I try to build a better cognitive base layer for the tons of information that I want to make sense in the coming months, including the projects that I'm looking to deep dive in especially those related to tackling the climate change.
 
@@ -19,4 +19,4 @@ The race against time is one of my few anxieties existing, but rather than stayi
 
 Another great point that I was able to discuss with my boss in ITC Ms. Alpha a few weeks ago that it should be a moral responsibility of everyone to pass better genes to the succeeding generation. I am into this logic, all in. Lot's of people now become so disengaged from their role in society. Most just suffer through life with either endless pleasure or endless cortisol jolts from social media or traditional news.
 
-Six months in, this has been a powerful sacrifice...paying off exponentially through my increase capacity to do more and absorb more. I hope people who will be able to read this may get to evaluate themselves and their loveones with regards to health concerns. Biology have saved me numerous times and the ability understand and connect diet with genetics will be instrumental in connecting now to a person's future and beyond...
+Six months in, this has been a powerful sacrifice...paying off exponentially through my increase capacity to do more and absorb more. I hope people who will be able to read this may get to evaluate themselves and their loveones with regards to health concerns. Biology have saved me numerous times and the ability understand and connect diet with genetics will be instrumental in connecting now into future and beyond...
