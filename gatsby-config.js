@@ -7,6 +7,13 @@ module.exports = {
     homeCity: "Philippines",
   },
   plugins: [
+   {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        // replace "UA-XXXXXXXXX-X" with your own Tracking ID
+        trackingId: "UA-153554973-1",
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {

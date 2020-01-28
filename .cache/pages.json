@@ -5,6 +5,21 @@
         "path": "/"
     },
     {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "2-for-6-980",
+        "path": "/2-for-6/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "2019-2020-635",
+        "path": "/2019-2020/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "2020-plans-sort-of-5b0",
+        "path": "/2020-plans-sort-of/"
+    },
+    {
         "componentChunkName": "component---src-pages-404-js",
         "jsonName": "404-html-516",
         "path": "/404.html"
@@ -51,6 +66,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "infj-6e1",
+        "path": "/INFJ/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "philippines-and-tech-ca6",
         "path": "/Philippines-and-Tech/"
     },
@@ -76,6 +96,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "absurd-math-85f",
+        "path": "/absurd-math/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "adapting-to-climate-change-303",
         "path": "/adapting-to-climate-change/"
     },
@@ -83,6 +108,11 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "am-i-solving-the-right-problem-551",
         "path": "/am-i-solving-the-right-problem/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "ancient-70b",
+        "path": "/ancient/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -156,8 +186,18 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "computer-coding-complexity-ztm-part-2-d7b",
+        "path": "/computer-coding-complexity-ZTM-part-2/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "consumption-overdrive-a8f",
         "path": "/consumption-overdrive/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "cop-462",
+        "path": "/cop/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -191,8 +231,33 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "empty-spaces-650",
+        "path": "/empty-spaces/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "enhanced-memory-3bc",
+        "path": "/enhanced-memory/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "farewell-mags-40f",
+        "path": "/farewell-mags/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "first-fifty-9-mm-rounds-21a",
+        "path": "/first-fifty-9mm-rounds/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "garbage-8a5",
         "path": "/garbage/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "geological-time-540",
+        "path": "/geological-time/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -213,6 +278,11 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "habits-shape-our-social-interactions-8db",
         "path": "/habits-shape-our-social-interactions/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "handgun-parts-101-04d",
+        "path": "/handgun-parts-101/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -261,6 +331,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "keto-seven-months-in-f18",
+        "path": "/keto-seven-months-in/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "keto-f86",
         "path": "/keto/"
     },
@@ -298,6 +373,11 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "minimalism-585",
         "path": "/minimalism/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "momento-mori-01b",
+        "path": "/momento-mori/"
     },
     {
         "componentChunkName": "component---node-modules-gatsby-plugin-offline-app-shell-js",
@@ -341,6 +421,11 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "projects-i-built-33d",
+        "path": "/projects-i-built/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "ramping-up-blogging-again-56a",
         "path": "/ramping-up-blogging-again/"
     },
@@ -348,6 +433,11 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "random-blog-c00",
         "path": "/random-blog/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "re-taking-zero-to-mastery-80b",
+        "path": "/re-taking-zero-to-mastery/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -378,6 +468,11 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "scoliosis-399",
         "path": "/scoliosis/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "sequencing-234",
+        "path": "/sequencing/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -458,6 +553,11 @@
         "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-charles-darwin-0cf",
         "path": "/tags/charles-darwin/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-cissa-a15",
+        "path": "/tags/cissa/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
@@ -551,6 +651,11 @@
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-latakz-8d3",
+        "path": "/tags/latakz/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-music-580",
         "path": "/tags/music/"
     },
@@ -578,6 +683,11 @@
         "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-philosophy-7b8",
         "path": "/tags/philosophy/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-phsycology-567",
+        "path": "/tags/phsycology/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
@@ -611,6 +721,11 @@
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-responsibility-6ff",
+        "path": "/tags/responsibility/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-robert-sapolsky-ff2",
         "path": "/tags/robert-sapolsky/"
     },
@@ -626,8 +741,18 @@
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-stoicism-456",
+        "path": "/tags/stoicism/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-super-intelligence-a60",
         "path": "/tags/super-intelligence/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-talking-tech-0aa",
+        "path": "/tags/talking-tech/"
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
@@ -641,8 +766,23 @@
     },
     {
         "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-truth-bd0",
+        "path": "/tags/truth/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
+        "jsonName": "tags-volunteering-2bd",
+        "path": "/tags/volunteering/"
+    },
+    {
+        "componentChunkName": "component---src-templates-tag-page-js",
         "jsonName": "tags-yuval-noah-harrari-0f9",
         "path": "/tags/yuval-noah-harrari/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "tech-stoic-com-ebb",
+        "path": "/tech-stoic.com/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -666,8 +806,23 @@
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "think-different-913",
+        "path": "/think-different/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "tim-ferriss-cf5",
+        "path": "/tim-ferriss/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "tools-culuture-biology-f44",
         "path": "/tools-culuture-biology/"
+    },
+    {
+        "componentChunkName": "component---src-pages-top-10-js",
+        "jsonName": "top-10-655",
+        "path": "/top10/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -678,6 +833,16 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "uninhabitable-earth-david-wallace-wells-1aa",
         "path": "/uninhabitable-earth-david-wallace-wells/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "volunteering-971",
+        "path": "/volunteering/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "we-used-to-hunt-6e9",
+        "path": "/we-used-to-hunt/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -708,5 +873,10 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "jsonName": "zero-social-media-5fa",
         "path": "/zero-social-media/"
+    },
+    {
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "jsonName": "zia-1b9",
+        "path": "/zia/"
     }
 ]

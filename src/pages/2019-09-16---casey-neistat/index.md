@@ -11,7 +11,7 @@ date: "2019-09-16"
 ---
 <br/>
 
-![caseyneistat](caseyneistat.jpg) 
+![caseyneistat](caseyneistat1.jpg) 
 
 ***I just started watching his videos back in October 2016 and the rest is history...*** 
 

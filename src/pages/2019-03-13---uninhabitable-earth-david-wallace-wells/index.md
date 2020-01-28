@@ -15,8 +15,6 @@ date: "2019-03-13"
 
 Again. You have been warned...</b>
 
-![skullpng](skullpng.png)
-
 Imagine yourself becoming fossilized due to extreme heat. Your sunglasses won't be able to help you. That is how the earth will feel like in three decades...or sooner. Time is not on our side.
 
 In the past months where I devoted a lot of time studying climate science, I tried to convince people important to me.. to be mindful of the crazy things that are happening because of our excessive use of fossil fuels. Unfortunately, they reversed the situation and just laughed at what I'm saying or believing. 

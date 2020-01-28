@@ -18,7 +18,7 @@ date: "2019-08-26"
 
 Stoic philosophy is great base layer for understanding complex concepts..
 
-![dna](dna.jpg)
+![dna](dna1.jpg)
 <br/>
 
 *Currently at lecture 4 of Dr. Sapolsky's [Human Behavior Biology Course](https://www.youtube.com/playlist?list=PLpXaCv0b7h12LpVunZ361VfCBQSwi_2e8) and have been experiencing the deepest dive on how imperfect we are as hyper-evlolved apes. Natural selection at depth is a ridiculous formula - trying to occupy each open gaps in the DNA whenever it's possible this contradicts my first understanding of it that evolution is forced by what nature gives us...now we - humans are a product of the most robust random code ever built - running for the last 3.2 billion years starting from basic carbon, oxygen, phosporus and nitrogen.*

@@ -11,7 +11,7 @@ date: "2019-09-29"
 
 ***This is the future of media..*** 
 
-![958](958.jpg) 
+![958](9581.jpg) 
 
 This is a memory encapsulating one of the most fascinating discussions I've ever heard, namely the [Joe Rogan Podcast #958](https://www.youtube.com/watch?v=USg3NR76XpQ&t=308s). Joe Rogand and Dr. Jordan B. Peterson talking so much about how to perceive certain things that we encounter in our everyday lives. I often re-listen to this discussion whenever I can, often realizing new concepts and how fascinating Dr. Peterson's research has been, trying to make sense of the world and sharing to the world how one can be a more responsible individual. 
 

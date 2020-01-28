@@ -9,7 +9,7 @@ tags:
 date: "2019-10-10"
 ---
 
-![samurai](samurai.jpg) 
+![samurai](samurai1.jpg) 
 
 ***Stoic life in the modern world...***
 

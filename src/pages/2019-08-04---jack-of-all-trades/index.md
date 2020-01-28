@@ -8,7 +8,7 @@ tags:
 date: "2019-08-04"
 ---
 
-<img src="SmartSelect_20190804-103912_Sketch.jpg" alt="jackofalltrades" width="700px" />
+<img src="jackofalltrades1.jpg" alt="jackofalltrades" width="700px" />
 <br/>
 
 Thanks to Architect Jonathan Dioscoro for giving me an inspiration to write something about this complex topic.

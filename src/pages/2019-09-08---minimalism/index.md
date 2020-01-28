@@ -10,7 +10,7 @@ date: "2019-09-08"
 ---
 <br/>
 
-![bicyclegear](bicyclegear.jpg)
+![bicyclegear](bicyclegear1.jpg)
 
 ***Everything should be black and sweat proof..*** 
 

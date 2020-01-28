@@ -1,7 +1,7 @@
 {
-  "name": "blog",
-  "description": "'My blog'",
-  "version": "0.2.0",
+  "name": "tech-stoic",
+  "description": "a-blog-for-learning-and-studying",
+  "version": "3.1.0",
   "author": "Miguel de Guzman <migueldeguzmandev@gmail.com>",
   "scripts": {
     "format": "prettier --write '**/*.js'"
@@ -10,8 +10,9 @@
     "@emotion/core": "^10.0.7",
     "@emotion/styled": "^10.0.7",
     "gatsby": "^2.0.0",
+    "gatsby-cli": "^2.8.22",
     "gatsby-plugin-emotion": "^4.0.4",
-    "gatsby-plugin-google-analytics": "^2.0.0",
+    "gatsby-plugin-google-analytics": "^2.1.29",
     "gatsby-plugin-manifest": "^2.0.2",
     "gatsby-plugin-offline": "^2.0.0",
     "gatsby-plugin-react-helmet": "^3.0.0",

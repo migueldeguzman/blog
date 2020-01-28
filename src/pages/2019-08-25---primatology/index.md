@@ -11,7 +11,7 @@ tags:
 date: "2019-08-25"
 ---
 
-![silverback](silverback.jpg)
+![silverback](silverback1.jpg)
 
 ###<b>*Screaming Biology!*</b>###
 
@@ -20,7 +20,7 @@ date: "2019-08-25"
 
 *Been doing a lot of deep dive on human behavior biology and personality traits instead of focusing on my advanced javascript course - which I do not know if its a logical way of consuming content. I'm just so fascinated of the capabilities of our brain and how evolution worked for eons to create us and we clearly started from apes. The field of primatology paved way for a lot of scientists and researchers to study how pre-human nature works and gave us a better understanding of topics like infanticide, aggression, maternal instincts and sexual preferrences.* 
 
-![robertsapolsky](robertsapolsky.jpg)
+![robertsapolsky](robertsapolsky1.jpg)
 
 *Dr. Robert Sapolsky's book "Behave" is so fundamental in my understanding of filtering what is good and bad as we are wired of so much neural networks where it is rather becoming difficult to say that we are all making decisions as a cause of free will. A highly recommended book!*
 

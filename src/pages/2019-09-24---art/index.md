@@ -12,7 +12,7 @@ date: "2019-09-24"
 
 ***He predicted how heart valves works hundreds of years before it was discovered in the 1900s!!!!*** 
 
-![davinci](davinci.jpg) 
+![davinci](davinci1.jpg) 
 
 Leonardo Da Vinci chased his curiosity to the ends of the universe. He painted, disected carcassed, created various [inventions](http://www.da-vinci-inventions.com/davinci-inventions.aspx) and documented each experiments in lengthy compilations of notes and illustrations. If there are people from history that I would love to meet, He is on top of that list. I could maybe ask how he could have did it, without much tech, writing each and every line of his experiments... how he managed to navigate the time where people who question the norm end up to have their necks splitted from their bodies. I know that he was so sought after in the 1400s - 1500s but his views are rather hard to comprehend at the time. Him being poor has never been an issue, I bet he can talk his way out of many issues that he had with strong families and kings in Italy.
 

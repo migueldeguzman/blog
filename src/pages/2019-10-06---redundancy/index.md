@@ -9,7 +9,7 @@ tags:
 date: "2019-10-06"
 ---
 
-![shadow](shadow.jpg) 
+![shadow](shadow1.jpg) 
 
 ***I have been integrating projects in to my schedule that will greatly affect my personal time invested in this blog..*** 
 

@@ -7,7 +7,7 @@ const rhythm = typography.rhythm
 const scale = typography.scale
 
 const NoStyleLink = props => (
-  <Link css={{ color: `inherit`, textDecoration: `none` }} {...props} />
+  <Link css={{ color: `blue`, textDecoration: `none` }} {...props} />
 )
 
 class Wrapper extends React.Component {
@@ -46,6 +46,7 @@ class Wrapper extends React.Component {
             }}
           >
             <NoStyleLink to="/blog/">blog</NoStyleLink>,{" "}
+            <NoStyleLink to="/top10/">top10</NoStyleLink>,{" "}
             <NoStyleLink to="/about/">about</NoStyleLink>
           </div>
         </div>
